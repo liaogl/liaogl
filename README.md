@@ -6,5 +6,5 @@ I am a graduate student in Statistics.
 - Time Series Analysis
 
 ### Contact
-- **Institution:** Academy of Mathematics and Systems Science, Chinese Academy of Science
+- **Institution:** Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 - **Email:** liaoguolian26@mails.ucas.ac.cn
